@@ -26,5 +26,8 @@ Output terminal voltage : -0.3V / +0.3V
 Operating Temperature : -10`C / + 60`C
 Storage Temperature : -40`C / +70`C
 
+# Link to the practical simulation video
+https://drive.google.com/file/d/1sre36hd5p6rtNz7ue-lGMDOvN_MIkdme/view?usp=sharing
+
 
 
